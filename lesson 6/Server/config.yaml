@@ -1,0 +1,6 @@
+log_name: server.log
+maxBytes: 500
+backupCount: 3
+log_level: DEBUG
+
+

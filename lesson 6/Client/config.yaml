@@ -1,0 +1,6 @@
+log_name: client.log
+maxBytes: 100
+backupCount: 0
+log_level: DEBUG
+
+
